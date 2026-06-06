@@ -1,0 +1,187 @@
+
+NAME - UGWUIBE SOLOMON EBUKA
+GROUP - GROUP 21
+EMAIL - ugwuibesolomon@gmail.com
+LLM: ChatGPT
+
+Using multiple prompts
+
+ASSIGNMENT 1 _ landing page for MamaPutOnline
+
+Prompt 1 - Create a Logo:
+Create a unique logo design for a Nigeria Restaurant called MamaPutOnline. The logo should look attractive and professional to customers.
+
+Prompt 2 - Logo style :
+Using HTML and CSS place the MamaPutOnline logo at the Top-left corner of the landing page inside the header section. Ensure it align properly and have enough spacing from the edges of the screen.
+
+prompts 3 - Create the navigation menu
+Create a responsive navigation menu bar for the MamaPutOnline landing page. The menu bar should contain the following items:
+- Home
+- menu
+- Location
+- About us
+- Contact
+
+Prompt 4 - Create the search bar
+Add a base rounded search bar at the top-right side of the navigation bar. The search bar should contain a search icon inside.
+
+Prompt 5 - Navigation styling
+Style the entire navigation bar with a black color background frame. Use white text for all menu items so they are clearly visibe. Add hover effects to the menu items and dropdowns. make the navigation bar sticky and responsive on mobile, tablet, and desktop screens.
+
+
+Prompt 6 - HERO SECTION PROMPT
+Create a Hero section for the MamaPutOnline landing page that occupies 100vh of the screen and 100% width. Use an attractive image for the background that will suit the MamaPutOnline restaurant.
+
+Prompt 7 - Partition of the Hero Section
+Partition the hero section into two sections horizontally 
+
+Left section:
+Image of a good looking cooked rice with border occupies 300px of width and hight.
+
+Right section:
+A bold written word in large print, “Created to leave in you satisfied” 
+A subheading- We did not come this far to serve you anything less than the best.
+Call to Action button - “Order Now”
+
+Ensure both section are properly aligned and responsive 
+
+Prompt 8 - Hero section styling
+Hero styling - 
+Add smooth spacing, base rounded corner and modern typography to the hero section. Make the design attractive to the customers 
+
+THIRD SET OF PROMPT - LEFT SIDEBAR PANEL
+Prompt 9 - Create sidebar Navigation
+Create a vertical sidebar navigation on the left-hand side of the landing page for the MamaPutOnline
+
+Prompt 10 - Add sidebar links
+ Add the following clickable navigation links inside the sidebar:
+- Rice
+- Soup
+- Special meals
+
+Prompt 11 - Sidebar functionality
+Make each sidebar link scroll smoothly to its corresponding product card row section in the main body of the landing page when clicked.
+
+Prompt 12 - Sidebar Navigation styling
+Style the sidebar background color white with text black color, add a hover effects. Add border with a shadow around the edges, spacing.
+Ensure the sidebar is responsive on smaller screens 
+
+Prompt 13 - MamaPutOnline product
+Create three rows on the landing page...on the right side of the side panel...with each row have at least 4 product cards
+
+Prompt 14 - Add 4 product cards per row
+Inside each product cards should contain:
+- Product image
+- Product name
+- Product price
+- “Buy Now” button
+
+Prompt 15 -Product cards functionality
+The product cards should identify the product boldly, the quantity and the price in Naira
+Ensure the cards are properly aligned with a button “Buy Now” on each card
+
+Prompt 16 - Product card styling
+Style all card with soft shadows, rounded corners, hover animations, spacing, and modern responsive grid layouts. 
+
+Ensure the cards are responsive on smaller screens and tablets 
+
+LOCATION SECTION
+Prompt 17 - Add Location
+Create a section with a heading "Our Location"
+subheading "No matter where you are in Enugu, the food arrives hot and the portion will surprise you.
+
+prompt 18 - Partition
+Partition the section into two sections
+
+left section:
+New layout
+Location- corridor Avenue, independence layout, Enugu
++234 8109368868
+Button "Get direction"
+
+Right section:
+A goggle map of Enugu independence layout
+
+
+FOOTER SECTION PROMPT
+Prompt 19 - Add footer
+Create a professional footer section for the MamaPutOnline landing page 
+
+Prompt 20 - Footer content
+Add the following on the footer:
+- All Social media icon
+- MamaPutOnline information 
+- All navigation same with the header 
+- Copyright text 
+
+Prompt 21 - Footer styling
+Style the footer with a black background color and white text. Add spacing, hover effects, and  responsive layout for both mobile, tablet and desktop screens
+
+
+    - DEWEY DOCUMENTATION
+1.0    landing page
+
+1.1 Heading section
+1.1.1 Restaurant Logo
+1.1.2 desktop Navigation bar
+1.1.2.1 Home
+1.1.2.2 menu
+1.1.2.3 Location
+1.1.2.4 About us
+1.1.2.5 Contact
+1.1.3 mobile Navigation bar
+1.1.3.1 Home
+1.1.3.2 menu
+1.1.3.3 Location
+1.1.3.4 About us
+1.1.3.5 Contact
+1.1.4 Search Bar
+
+1.2 Hero Section
+1.2.1 Hero background Image
+1.2.2 Hero layout
+1.2.2.1 Hero Image
+i.2.2.2 Hero Description
+1.2.2.3 Order now button
+
+1.3 Sidebar navigation
+1.3.1 Rice Dishes
+1.3.2 Swallow meals
+1.3.3 Special meals
+
+1.4 Menu Section
+1.4.1 Rice Dishes Row
+1.4.1.1 Jollof Rice
+1.4.1.2 Fried Rice
+1.4.1.3 Coconut Rice
+1.4.1.4 White & Stew
+1.4.2 Swallow meals
+1.4.2.1 Egusi Soup
+1.4.2.2 Eba & Soup
+1.4.2.3 Ogbono Soup
+1.4.2.4 Fufu (Akpu)
+1.4.3 Special meals
+1.4.3.1 Nkwobi
+1.4.3.2 Abacha
+1.4.3.3 Chicken
+1.4.3.4 Pepper Soup
+
+1.5 menu cards
+1.5.1 product image
+1.5.2 product name
+1.5.3 product price
+1.5.4 buy now button
+
+1.6 Location Section
+1.6.1 Office Location
+1.6.2 Phone Number
+1.6.3 button
+1.6.4 Goggle map
+
+1.7 Footer Section
+1.7.1 footer logo
+1.7.2 Quick links
+1.7.3 Social media icons
+1.7.4 Copyright information
+
+
